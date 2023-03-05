@@ -9,8 +9,8 @@ However, it has been dealt with by several sources :
 + w3schole
 + MDN
 
-And I have used :
-1-VSc
+And I have used :  
+1-VSc  
 2-github 
 
 ##### it well done 
